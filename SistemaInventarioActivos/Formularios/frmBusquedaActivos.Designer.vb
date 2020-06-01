@@ -47,6 +47,7 @@ Partial Class frmBusquedaActivos
         '
         'Panel1
         '
+        Me.Panel1.BackColor = System.Drawing.SystemColors.ControlLight
         Me.Panel1.Controls.Add(Me.rbDepartamento)
         Me.Panel1.Controls.Add(Me.rbNombreEmpleado)
         Me.Panel1.Controls.Add(Me.rbCodigoInventario)
